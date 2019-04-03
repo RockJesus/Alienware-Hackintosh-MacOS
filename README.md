@@ -6,6 +6,11 @@
 
 # 台式机型 https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
 
+| 外星人黑苹果QQ群：308469644                                                                                                                                                              | 
+| ----------------------------------------------------------   | 
+| ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh/blob/master/qq.png?raw=true) |
+
+
 # *************** BUY ME A COFFEE ***************
 | 支付宝                                                                                                                                                              | 微信                                               |
 | ----------------------------------------------------------   | ---------------------------------------------------- |
