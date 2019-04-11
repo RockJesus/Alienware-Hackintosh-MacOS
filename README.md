@@ -4,7 +4,9 @@
 
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
 
-# 台式机型 https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
+# 更多台式机型 https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
+
+# 欢迎来我的博客：rockjesus.cn
 
 | 外星人黑苹果QQ群：308469644                                                                                                                                                              | 
 | ----------------------------------------------------------   | 
