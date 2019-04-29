@@ -4,6 +4,8 @@
 
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
 
+# Alienware 17 R4 长期维护：https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh
+
 # 更多台式机型 https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
 
 # 欢迎来我的博客：https://rockjesus.cn
