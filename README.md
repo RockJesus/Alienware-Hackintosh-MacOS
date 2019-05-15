@@ -1,5 +1,7 @@
 # alienware hackintosh efi collection
 
+[![Platform](https://img.shields.io/badge/platform-macOS-red.svg)](https://developer.apple.com/macos)
+
 ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh/blob/master/tony/30846964424404cb8b69890eb.jpg)
 
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
