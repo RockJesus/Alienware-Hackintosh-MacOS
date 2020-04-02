@@ -19,6 +19,30 @@
 ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/tony/%E5%BE%AE%E4%BF%A1%E5%9C%88%E5%AD%90.jpeg?raw=true)
 ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/tony/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png?raw=true)
 
+# 黑果小兵的部落阁 daliansky's blog: https://blog.daliansky.net （安装教程等新手看这里）
+
+# 其他各品牌机型 other brands:
+https://github.com/daliansky/Hackintosh
+https://zhih.me/hackintosh/#/
+
+# 黑苹果常用网站 credits:
+http://bbs.pcbeta.com/
+https://www.insanelymac.com/
+https://www.tonymacx86.com/
+https://github.com/acidanthera/Lilu
+https://bitbucket.org/RehabMan/
+
+# 外星人电脑黑苹果驱动情况总结:
+1.首先win下-设备管理器-监视器-通用即插即用监视器
+-常规-位置-确认显示器链接的显卡是双显还是只有独显,
+ A:可切换显卡机型(双显FN+F7切换模式)10.13.6下安装webdriver可驱动双显卡,可以3种模式运行(单核显模式需ssdt等屏蔽独显节能省电,单独显模式需win下切换支持外接显示器,双显卡模式支持外接显示器),10.14/15下只能用核显
+ B:不可切换显卡机型(只有N卡输出GSYNC版本默认屏蔽核显)配合webdriver只能安装最高到10.13.6,如果安装10.14/15显卡无解
+ C:黑苹果只支持10x0系列以下n卡,16x0/20x0系列显卡无解
+2.killer 有线网卡和蓝牙可驱动, 无线网卡无解,推荐换内置无线网卡DW1560,
+dw1820问题多多麻烦，dw1830有点大装不进去，
+intel有线网卡蓝牙可驱动，无线网卡暂时无解
+3.大家有补充的可以@我
+
 # 如有疑问请进QQ群 If u need help >> https://gitter.im/Alienware-hackintosh/community
 
 # ************ BUY ME A COFFEE & JOIN US ************
