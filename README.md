@@ -16,8 +16,6 @@
 
 # 欢迎来我的博客 Welcome to my blog：https://rockjesus.cn
 
-![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/tony/%E5%BE%AE%E4%BF%A1%E5%9C%88%E5%AD%90.jpeg?raw=true)
-![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/tony/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png?raw=true)
 
 # 黑果小兵的部落阁 daliansky's blog: https://blog.daliansky.net （安装教程等新手看这里）
 
