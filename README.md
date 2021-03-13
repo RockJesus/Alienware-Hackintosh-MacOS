@@ -2,8 +2,8 @@
 # 外星人黑苹果clover/opencore收集
 
 [![Platform](https://img.shields.io/badge/platform-macOS-red.svg)](https://developer.apple.com/macos) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
+![4B60C9FDBD5609483647B96771E8D795](https://user-images.githubusercontent.com/23656651/111026999-6ef46200-8428-11eb-9076-f0840727946a.png)
 
-![rockjesus-octheme](https://user-images.githubusercontent.com/23656651/110778693-a2ef4c00-829d-11eb-8819-6869312ffd76.png)
 
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
 # Collect alienware hackintosh clover/opencore shared by netizens. Welcome to push your own configuration here!
