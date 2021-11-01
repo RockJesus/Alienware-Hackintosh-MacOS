@@ -4,12 +4,28 @@
 ![4B60C9FDBD5609483647B96771E8D795](https://user-images.githubusercontent.com/23656651/111026999-6ef46200-8428-11eb-9076-f0840727946a.png)
 ### Hi there 👋  Welcome 🛸  to Alienware 👽  Hackintosh 🍎  by 💻   [RockJesus.cn](https://rockjesus.cn)  🖥  
 [![Hardware](https://img.shields.io/badge/Hardware-alienware-silver.svg)](https://alienware.com) [![Platform](https://img.shields.io/badge/platform-macOS-red.svg)](https://developer.apple.com/macos) [![Platform](https://img.shields.io/badge/platform-windows-blue.svg)](https://www.microsoft.com/en-us/windows/) 
- [![qq](https://img.shields.io/badge/外星人黑苹果-QQ群-purple.svg)](https://user-images.githubusercontent.com/23656651/111026572-cc3ae400-8425-11eb-970a-917928bb55d8.png)
+[![b](https://img.shields.io/badge/Bootloader-Clover-green.svg)](https://github.com/CloverHackyColor/CloverBootloader)
+[![b](https://img.shields.io/badge/Bootloader-Opencore-silver.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![b](https://img.shields.io/badge/Credits-PCbeta-red.svg)](https://bbs.pcbeta.com)
+[![b](https://img.shields.io/badge/Credits-TonymacX86-green.svg)](https://tonymacx86.com)
+[![b](https://img.shields.io/badge/Credits-Acidanthera-purple.svg)](https://github.com/acidanthera)
+[![b](https://img.shields.io/badge/Credits-黑果小兵-yellow.svg)](https://blog.daliansky.net/)
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RockJesus&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://rockjesus.cn)
+
+
+[![qq](https://img.shields.io/badge/外星人黑苹果-个人博客Blog-silver.svg)](https://rockjesus.cn)
+[![qq](https://img.shields.io/badge/外星人黑苹果-QQ群-purple.svg)](https://user-images.githubusercontent.com/23656651/111026572-cc3ae400-8425-11eb-970a-917928bb55d8.png)
+[![qq](https://img.shields.io/badge/外星人黑苹果-微信公众号-silver.svg)](http://r1o2otara.hd-bkt.clouddn.com/gzh.jpg)
+[![qq](https://img.shields.io/badge/social-tiktok-blue.svg)](http://r1o2otara.hd-bkt.clouddn.com/dou.png)
+[![qq](https://img.shields.io/badge/social-微信视频号-green.svg)](http://r1o2otara.hd-bkt.clouddn.com/sph.jpg)
+[![qq](https://img.shields.io/badge/social-电影公众号-red.svg)](http://r1o2otara.hd-bkt.clouddn.com/dy.jpg)
+[![qq](https://img.shields.io/badge/黑苹果-远程安装-purple.svg)](http://r1o2otara.hd-bkt.clouddn.com/az.jpg)
  [![zfb](https://img.shields.io/badge/打赏-支付宝-blue.svg)](https://gitee.com/rockjesus/rockjesus/raw/master/img/zfb.png)
  [![wx](https://img.shields.io/badge/打赏-微信-green.svg)](https://gitee.com/rockjesus/rockjesus/raw/master/img/wx.png)
  [![zsm](https://img.shields.io/badge/打赏-赞赏码-yellow.svg)](https://gitee.com/rockjesus/rockjesus/raw/master/img/zsm.png)
  [![Gitter](https://badges.gitter.im/Alienware-hackintosh/community.svg)](https://gitter.im/Alienware-hackintosh/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RockJesus&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://rockjesus.cn)
+
 
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
 # Collect alienware hackintosh clover/opencore shared by netizens. Welcome to push your own configuration here!
@@ -48,9 +64,9 @@ intel有线网卡蓝牙可驱动，无线网卡[驱动](https://github.com/OpenI
 
 # 如有疑问请进QQ群 If u need help >> [![Gitter](https://badges.gitter.im/Alienware-hackintosh/community.svg)](https://gitter.im/Alienware-hackintosh/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-| 微信圈子                                                                                                                                                              | 微信小程序                                                                                                                                                              | 微信公众号                                                                                                                                                                                                                                                                                                                            | 
+| 黑苹果远程安装                                                                                                                                                              | 微信小程序                                                                                                                                                              | 微信公众号                                                                                                                                                                                                                                                                                                                            | 
 | ----------------------------------------------------------   | ----------------------------------------------------------   | ----------------------------------------------------------   |  
-| ![image](https://user-images.githubusercontent.com/23656651/111026490-78c89600-8425-11eb-97b1-c037751acf41.jpg) | ![image](https://user-images.githubusercontent.com/23656651/111026497-8251fe00-8425-11eb-9fee-d9c646e49f66.png) | ![image](https://user-images.githubusercontent.com/23656651/111026513-9269dd80-8425-11eb-835e-2ff3c0f646b4.jpg) | 
+| ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-12-11-10-Hackintosh/blob/master/tony/ycaz.png?raw=true) | ![image](https://user-images.githubusercontent.com/23656651/111026490-78c89600-8425-11eb-97b1-c037751acf41.jpg) | ![image](https://user-images.githubusercontent.com/23656651/111026513-9269dd80-8425-11eb-835e-2ff3c0f646b4.jpg) | 
 # ************ BUY ME A COFFEE & JOIN US ************
 | 外星人黑苹果QQ群：308469644                                                                                                                                                              | 支付宝打赏                                                                                                                                                              | 微信打赏                                                                                                                                                              |  微信赞赏                                                                                                                                                              | 
 | ----------------------------------------------------------   | ----------------------------------------------------------   | ----------------------------------------------------------   |  ----------------------------------------------------------   | 
