@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/qq.png?raw=true', 'https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/wx.png?raw=true', 'https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-10.15-14-13-Hackintosh/blob/master/zfb.png?raw=true', 'https://rockjesus.cn'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://user-images.githubusercontent.com/23656651/111026572-cc3ae400-8425-11eb-970a-917928bb55d8.png', 'https://user-images.githubusercontent.com/23656651/111026785-3ef88f00-8427-11eb-9c0b-d773e2da067d.jpeg', 'https://user-images.githubusercontent.com/23656651/111026777-3011dc80-8427-11eb-931e-8731a12cc3b4.jpeg', 'https://rockjesus.cn'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
