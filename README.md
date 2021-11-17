@@ -25,6 +25,7 @@
  [![wx](https://img.shields.io/badge/打赏-微信-green.svg)](https://gitee.com/rockjesus/rockjesus/raw/master/img/wx.png)
  [![zsm](https://img.shields.io/badge/打赏-赞赏码-yellow.svg)](https://gitee.com/rockjesus/rockjesus/raw/master/img/zsm.png)
  [![Gitter](https://badges.gitter.im/Alienware-hackintosh/community.svg)](https://gitter.im/Alienware-hackintosh/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+ [![download-badge](https://img.shields.io/github/downloads/RockJesus/Alienware-Hackintosh/total.svg?logo=DocuSign "Download status")](https://github.com/RockJesus/Alienware-Hackintosh/releases/latest "Download status")
 
 
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
