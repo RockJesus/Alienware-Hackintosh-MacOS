@@ -30,7 +30,7 @@
 [![forks](https://img.shields.io/github/forks/RockJesus/alienware-hackintosh.svg?logo=Analogue&color=orange)](https://github.com/RockJesus)
  [![download-badge](https://img.shields.io/github/downloads/RockJesus/Alienware-Hackintosh/total.svg?logo=DocuSign "Download status")](https://github.com/RockJesus/Alienware-Hackintosh/releases/latest "Download status")
 
-[![qq](http://r1o2otara.hd-bkt.clouddn.com/foot.gif)](https://rockjesus.cn)
+[![qq](https://cdn.jsdelivr.net/gh/rockjesus/img/img/foot.gif)](https://rockjesus.cn)
 # 收集网友分享的外星人各机型黑苹果efi，欢迎push你的配置！
 # Collect alienware hackintosh clover/opencore shared by netizens. Welcome to push your own configuration here!
 
