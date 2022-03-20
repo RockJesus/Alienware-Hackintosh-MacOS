@@ -45,6 +45,8 @@
 
 # 黑果小兵的部落阁 daliansky's blog:  [安装教程等新手看这里](https://blog.daliansky.net)
 
+# 外星人mac下灯光控制 Alienware led controler for mac by: https://github.com/kingo132/AlienFX-For-MacOS
+
 # 其他各品牌机型 other brands: [link1](https://github.com/daliansky/Hackintosh). [link2](https://zhih.me/hackintosh/#/)
 
 
