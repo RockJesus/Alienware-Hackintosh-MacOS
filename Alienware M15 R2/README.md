@@ -1,4 +1,4 @@
-@alectardy
+@alectardy [Success] Dell Alienware M15 R2 i9 9880HK 2080 maxQ
 This thread has been updated to refect my current build with open core, note that you should not use my open core files directly, and instead just use them as a reference, as open core is vary picky and is deferent per system
 
 New Opencore files for Big Sur 11.2.2
